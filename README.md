@@ -1,3 +1,3 @@
-# vastr-ai
+# vastrai
 
 Personal wardrobe intelligence & style companion.
